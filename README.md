@@ -10,7 +10,7 @@ ___
 4. Go to **Tools -> Board -> Boards Manager...**
 5. Search for **Bluepad32** and install the `esp32-bluepad32` platform core package.
 6. Go back to **Tools -> Board** and select the esp32_bluepad32 board
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/c8f2282b-4342-4342-4f71-bb98deee4de2027" />
+<img width="600" alt="image" src="Board_Selection.png" />
 
 
 ___
