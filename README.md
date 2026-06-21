@@ -8,6 +8,10 @@ Setup Instructions
    `https://raw.githubusercontent.com/ricardoquesada/esp32-bluepad32/gh-pages/package_esp32_bluepad32_index.json`
 4. Go to **Tools -> Board -> Boards Manager...**
 5. Search for **Bluepad32** and install the `esp32-bluepad32` platform core package.
+6. Go back to **Tools -> Board** and select the esp32_bluepad32 board
+<img width="1915" height="988" alt="image" src="https://github.com/user-attachments/assets/c8f2282b-4342-4f71-bb98-deee4de32027" />
+
+
 
 Pairing Troubleshooting Instructions
    Steps below wipes bluetooth cache and allows board and controller to pair
